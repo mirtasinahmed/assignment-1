@@ -288,29 +288,27 @@ nav .menu{
     min-width:1000px
 
 }
+.social{
+    display:flex;
+    flex-direction: column;
+    gap:15px;
+
+    
+}
 .footer-logo{
     width: 150px;
-    height: 50px;
-    /* padding-top: 135px;
-    padding-left: 120px; */
-     
+    height: 50px;  
 }
 .footer-tagline{
     font-size: 20px;
     display: flex;
     flex-direction: column;
     color: white;
-    /* padding-left:1070px ;
-    padding-top: 12px;
-    padding-right: 120px; */
 }
 .footer-links{
     display: flex;
     flex-direction: row;
     gap: 16px;
-    /* padding-left:1070px ;
-    padding-top: 12px;
-    padding-right: 110px;*/
 } 
 .footer-copy{
     color: white;
